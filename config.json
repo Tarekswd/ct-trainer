@@ -1,0 +1,9 @@
+{
+    "train_dir": "C:/Users/Admin/Desktop/python/data/train",
+    "test_dir": "C:/Users/Admin/Desktop/python/data/test",
+    "epochs": 3,
+    "batch_size": 2,
+    "learning_rate": 0.0001,
+    "model_path": "model.pth",
+    "classes_path": "classes.txt"
+}

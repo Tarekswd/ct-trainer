@@ -1,0 +1,8 @@
+torch
+torchvision
+monai
+numpy
+pydicom
+scikit-learn
+pillow
+tk
